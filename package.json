@@ -1,0 +1,10 @@
+{
+    "name": "censorify.alec",
+    "version": "1.0.0",
+    "description": "a simple node.js module",  
+    "main":"html/Weather.html",
+    "repository": { 
+      "type":"git", 
+      "location":"https://github.com/alecfullofmer/censorify.git"
+    } 
+} 
